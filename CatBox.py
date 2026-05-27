@@ -51,7 +51,7 @@ def DrawCat(position, frame, is_last=False):
 
     t.fillcolor("orange")
     t.begin_fill()
-    circSize = 15* trueNum
+    circSize = 15 * trueNum
     t.circle(circSize, 144)
     x1 = t.xcor()
     y1 = t.ycor()
